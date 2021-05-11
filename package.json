@@ -48,7 +48,7 @@
     "inert": "4.2.0",
     "joi": "10.6.0",
     "jsonwebtoken": "^7.4.1",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "mongoose": "4.11.1",
     "mongoose-unique-validator": "^1.0.5",
     "sequelize": "^6.2.0",
